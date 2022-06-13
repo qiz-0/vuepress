@@ -18,6 +18,8 @@ module.exports = {
     lineNumbers: true
   },
   themeConfig: {
+    //不使用腾讯404公益
+    noFoundPageByTencent: false,
     //首页样式
     back:{
       isRandom: true, //是否采用随机模式
@@ -91,7 +93,7 @@ module.exports = {
     cyberSecurityRecord: '萌ICP备20229979号',
     cyberSecurityLink: 'https://icp.gov.moe/?keyword=20229979',
     // 项目开始时间
-    startYear: "2021",
+    startYear: "2022",
     friendLink: [
       {
         title: "午后南杂",

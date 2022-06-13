@@ -29,7 +29,8 @@ OK兄弟們
 
 ### 联系我
 
-邮箱: a@傻b.site
+邮箱: liudamazi@傻逼.wosb.cc
+- liudamazi@xn--30q116m.wosb.cc
 
 
 

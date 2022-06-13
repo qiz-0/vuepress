@@ -1,14 +1,19 @@
 ---
 title: '推荐使用外语词中文译名表(1-6)'
-date: 2022-3-28
+date: 2022-5-18
 # 覆盖文章网址
 # permalink: '/views/学术/fy.md'
 isFull: true
 isShowComment: true
+isShowIndex: false 
 isAbstract: true
 isTimeLine: true
 sidebar: false
 next: /views/学术/fy2.md
+categories: 
+    - '学术'
+tags: 
+    - '学术'
 ---
 
 ## 第一批推荐使用外语词中文译名表
@@ -124,4 +129,3 @@ next: /views/学术/fy2.md
 |19|	γ射线|	Gamma Ray|	伽玛射线|	
 |20|	OTC	|Over-The-Counter(drug)|	非处方(药)|	
 
-[推荐使用外语词中文译名表(7-12)](/views/学术/fy2.md)

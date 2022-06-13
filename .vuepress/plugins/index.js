@@ -14,6 +14,7 @@ module.exports = {
         }
      },
       "vuepress-plugin-boxx":{},
+      'vuepress-plugin-baidu-autopush':{}, // 百度站点自动推送
       'meting': {
         auto: "https://music.163.com/#/my/m/music/playlist?id=7341602578", //你的歌单的链接，网页歌单链接
         meting: {
@@ -24,6 +25,8 @@ module.exports = {
         aplayer: {
           lrcType: 3,
           autoplay: true
-        }
-      }
+        },
+      },
+      'minimal-analytics': {ga: 'G-P02H2FL9CP'},
+
 }

@@ -135,5 +135,3 @@ prev: /views/学术/fy1.md
 |19|SDR|Standard Dynamic Range|标准动态范围| |
 |20|SR|Super-resolution|超分辨率| |
 |21|VOD|Video on Demand|视频点播| |
-
-[推荐使用外语词中文译名表(1-6)](/views/学术/fy1.md)
